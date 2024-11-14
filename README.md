@@ -107,4 +107,4 @@ ai_brain.predict(X_n1_1)
 
 
 ## RESULT
-Thus a Neural network for Regression model is Implemented Successfully
+Thus a Neural network for Regression model is Implemented Successfully.
